@@ -1,0 +1,29 @@
+---
+about:
+  template: marquee
+  id: about-block
+---
+
+## Welcome to my Website!
+
+```{=html}
+<img src="docs/img/ad.png" alt="Aishwarya Deengar" style="display:block; margin:auto; width:80%; max-width:300px;"/>
+```
+```{=html}
+<hr style="border-top: 2px solid #000; width: 80%; margin: 20px auto;">
+
+
+<p style="text-align: justify;">
+  My name is Aishwarya Deengar, and I am currently pursuing my Ph.D. in Systems Biology and Bioinformatics at Case Western Reserve University. I hold a Master’s in Bioinformatics from Boston University and another in Biomedical Sciences from Delhi University, combining both computational and wet-lab expertise in my research. My work spans multiomic single-cell sequencing, evolutionary analyses, and machine learning applications. I have hands-on experience from my three years at Ring Therapeutics, a viral vector-based gene therapy startup in Cambridge, MA, before joining Case. Skilled in R, Python, and various sequencing platforms, I am passionate about using bioinformatics and innovative research to uncover insights that advance our understanding of complex biological systems and their therapeutic potential.
+  In my free time, I love reading as well as collecting books. 
+</p>
+
+
+<hr style="border-top: 2px solid #000; width: 80%; margin: 20px auto;">
+```
+```{=html}
+<p style="text-align: center;">
+  Feel free to explore the sections to learn more about me!
+</p>
+```
+#### 
