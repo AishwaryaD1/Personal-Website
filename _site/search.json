@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Download Resume"
+  },
+  {
+    "objectID": "about/index.html",
+    "href": "about/index.html",
+    "title": "About",
+    "section": "",
+    "text": "2024 - Present\nPhD Systems Biology and Bioinformatics\nSchool of Medicine, \nCase Western Reserve University\nCleveland, OH\n\n2019 - 2021\nMaster of Science in Bioinformatics | GPA: 3.9/4.0\nBoston University\nBoston, MA\n\n2017 - 2019\nMaster of Science in Biomedical Sciences | First Division\nDelhi University\nDelhi, India\n\n2014 - 2017\nBachelor of Science, Life Sciences | First Division\nDelhi University\nDelhi, India"
+  },
+  {
+    "objectID": "about/index.html#education",
+    "href": "about/index.html#education",
+    "title": "About",
+    "section": "",
+    "text": "2024 - Present\nPhD Systems Biology and Bioinformatics\nSchool of Medicine, \nCase Western Reserve University\nCleveland, OH\n\n2019 - 2021\nMaster of Science in Bioinformatics | GPA: 3.9/4.0\nBoston University\nBoston, MA\n\n2017 - 2019\nMaster of Science in Biomedical Sciences | First Division\nDelhi University\nDelhi, India\n\n2014 - 2017\nBachelor of Science, Life Sciences | First Division\nDelhi University\nDelhi, India"
+  },
+  {
+    "objectID": "about/index.html#experience",
+    "href": "about/index.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience\nRing Therapeutics\nSenior Research Associate- Computational Biology (09/2022 - 04/2024)\n- Deploying multiomic single-cell sequencing assays across in-vitro and in-vivo optimization experiments to understand anellovirus tropism and gene expression.\n- Contributing to experimental design and optimizations on multiple indication programs and cross-functional teams.\n- Conducting exploratory studies using ancient DNA for evolutionary analyses of anelloviruses and optimizing the metagenomic pipeline to explore and characterize the ‘anellome’ in NHP and rodents.\n\nResearch Associate-II: Computational Biology (06/2021 - 08/2022)\n- Assisted in anellovirus exploration, identification, and characterization in human tumor biopsy samples and brain, liver, muscle, and cartilage samples obtained from NDRI using wet laboratory and bioinformatics techniques.\n- Spearheaded anellovirus research in NHP and rodent samples, amplifying vector candidate discovery by almost 900%.\n\nNational Emerging Infectious Diseases Laboratory, Boston University\nResearch Volunteer (05/2020 - 12/2020)\n- Interpreting the role of two miRNAs in enabling the permissivity of Yellow Fever Virus infection to help develop animal models by employing cloning, cell culture, and transfections.\n- Collaborated on projects to aid in construction and validation of vaccine candidates for SARS-CoV-2.\n\nBoston University School of Medicine\nSummer Intern (06/2020 - 09/2020)\n- Employed deep learning skills (PyTorch) to develop a deep neural network to annotate the structure of human vasculature from IVUS images.\n- Conducted bench work to understand the role of TMIGD1, a putative tumor suppressor gene, using western blot, transformations, and cell culture.\n\nVallabhbhai Patel Chest Institute, Delhi University\nSummer Intern and Master’s Thesis Project\n- Determined and quantified the effect of miRNA-155 on the replication dynamics of Chikungunya Virus.\n- Performed various molecular biology and RDT experiments to illuminate endoplasmic reticulum stress in Chikungunya Virus infected mammalian cells."
+  },
+  {
+    "objectID": "about/index.html#interests",
+    "href": "about/index.html#interests",
+    "title": "About",
+    "section": "Interests",
+    "text": "Interests\n\n Reading is one of my biggest passions, and whether it’s fiction or non-fiction, I find myself constantly seeking new stories and knowledge. I’ve built up a collection of over 600 books, and it keeps growing. I also collect bookmarks from various places, which adds a bit of fun to my reading experience. When I’m not reading a physical book, I’m often listening to audiobooks or podcasts (especially, This Podcast Will Kill You), enjoying the freedom to take in new content while on the move.\n\nMore recently, I’ve also picked up embroidery and crochet, dabbling in these crafts when I want to unwind and get creative. It’s a fun, hands-on way to relax and add a little more art to my life.\n\nTraveling and hiking are other activities I enjoy, especially the chance to explore new places and immerse myself in nature. It’s a great way to disconnect and recharge. These hobbies are not just about relaxation; they give me a fresh perspective and a break from the usual pace of my scientific work, helping me come back with a clearer mind and renewed focus."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Aishwarya Deengar",
+    "section": "",
+    "text": "Welcome to my Website!\n\n\n\n  My name is Aishwarya Deengar, and I am currently pursuing my Ph.D. in Systems Biology and Bioinformatics at Case Western Reserve University. I hold a Master’s in Bioinformatics from Boston University and another in Biomedical Sciences from Delhi University, combining both computational and wet-lab expertise in my research. My work spans multiomic single-cell sequencing, evolutionary analyses, and machine learning applications. I have hands-on experience from my three years at Ring Therapeutics, a viral vector-based gene therapy startup in Cambridge, MA, before joining Case. Skilled in R, Python, and various sequencing platforms, I am passionate about using bioinformatics and innovative research to uncover insights that advance our understanding of complex biological systems and their therapeutic potential.\n  In my free time, I love reading as well as collecting books. \n\n\n\n  Feel free to explore the sections to learn more about me!"
+  },
+  {
+    "objectID": "index.html#welcome-to-my-website",
+    "href": "index.html#welcome-to-my-website",
+    "title": "Aishwarya Deengar",
+    "section": "",
+    "text": "My name is Aishwarya Deengar, and I am currently pursuing my Ph.D. in Systems Biology and Bioinformatics at Case Western Reserve University. I hold a Master’s in Bioinformatics from Boston University and another in Biomedical Sciences from Delhi University, combining both computational and wet-lab expertise in my research. My work spans multiomic single-cell sequencing, evolutionary analyses, and machine learning applications. I have hands-on experience from my three years at Ring Therapeutics, a viral vector-based gene therapy startup in Cambridge, MA, before joining Case. Skilled in R, Python, and various sequencing platforms, I am passionate about using bioinformatics and innovative research to uncover insights that advance our understanding of complex biological systems and their therapeutic potential.\n  In my free time, I love reading as well as collecting books. \n\n\n\n  Feel free to explore the sections to learn more about me!"
+  }
+]
